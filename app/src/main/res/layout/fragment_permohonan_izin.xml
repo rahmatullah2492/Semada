@@ -26,7 +26,7 @@
             android:paddingStart="5dp"
             android:layout_height="50dp"
             android:layout_weight="1"
-            android:text="Riwayat"
+            android:text="Permohonan Izin"
             android:textSize="20dp"
             android:textStyle="bold"
             android:textColor="#000"

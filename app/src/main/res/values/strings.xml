@@ -8,4 +8,5 @@
     <string name="teks_max_pdf">Upload File Foto dalam Pdf Max File 2MB</string>
     <string name="teks_rentang_hari">Jika lebih dari Tiga Hari, diharap menghubungi pihak administrasi</string>
     <string name="teks_pihak_sekolah">Pihak sekolah berhak memberi hukumanjika ada pemalsuan dari pengisian form diatas</string>
+    <string name="teks_surat_yg_upload">Surat yang di upload adalah surat keterangan dokter</string>
 </resources>
