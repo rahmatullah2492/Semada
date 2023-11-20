@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".splash_screen.SplashScreen">
+
+   <ImageView
+       android:id="@+id/img_logo_splashScreen"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="@drawable/bg_splashscreen"
+       android:paddingLeft="100dp"
+       android:paddingRight="100dp"
+       android:src="@drawable/logosmada" />
+
+   <ProgressBar
+       android:id="@+id/progressBar_splashScreen"
+       style="?android:attr/progressBarStyleHorizontal"
+       android:layout_width="100dp"
+       android:layout_height="8dp"
+       android:layout_gravity="center"
+       android:layout_margin="16dp"
+       android:progressBackgroundTint="#ffffff"
+       android:progressDrawable="@drawable/custom_progress_bar"
+       android:progressTint="#ffffff"
+       app:layout_constraintBottom_toBottomOf="@+id/img_logo_splashScreen"
+       app:layout_constraintEnd_toEndOf="@+id/img_logo_splashScreen"
+       app:layout_constraintStart_toStartOf="@+id/img_logo_splashScreen" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

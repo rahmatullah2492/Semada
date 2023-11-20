@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SEMADA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="teks_login">Silahkan masukkan NIS dan Password anda</string>
+    <string name="teks_bar_login">Copyright © SMA Negeri 2 Jember</string>
+    <string name="teks_max_pdf">Upload File Foto dalam Pdf Max File 2MB</string>
+    <string name="teks_rentang_hari">Jika lebih dari Tiga Hari, diharap menghubungi pihak administrasi</string>
+</resources>
