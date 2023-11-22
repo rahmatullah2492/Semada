@@ -15,7 +15,7 @@
             android:id="@+id/constraintLayout16"
             android:layout_width="match_parent"
             android:layout_height="123dp"
-            android:background="@drawable/bg_rekap"
+            android:background="@drawable/bg_rekapp"
             tools:ignore="MissingConstraints">
 
             <ImageView
