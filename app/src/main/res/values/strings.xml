@@ -9,4 +9,5 @@
     <string name="teks_rentang_hari">Jika lebih dari Tiga Hari, diharap menghubungi pihak administrasi</string>
     <string name="teks_pihak_sekolah">Pihak sekolah berhak memberi hukumanjika ada pemalsuan dari pengisian form diatas</string>
     <string name="teks_surat_yg_upload">Surat yang di upload adalah surat keterangan dokter</string>
+    <string name="teks_tentang_aplikasi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s,when an unknown printer took a galley of type andscrambled it to make a type specimen book.It has survived not only five centuries,but also the leap into electronic typesetting,remaining essentially unchanged. It was popularisedin the 1960s with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recentlywith desktop publishing software like AldusPageMaker including versions of Lorem Ipsum.</string>
 </resources>

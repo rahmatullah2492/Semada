@@ -1,0 +1,11 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1CC642" /> <!-- Warna latar belakang -->
+    <size
+        android:width="180dp"
+        android:height="180dp" /> <!-- Ukuran lebar dan tinggi -->
+    <corners
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp"
+        android:bottomLeftRadius="180dp"
+        android:bottomRightRadius="180dp" />
+</shape>
